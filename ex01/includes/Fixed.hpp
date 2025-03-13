@@ -6,7 +6,7 @@
 /*   By: bsengeze <bsengeze@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/13 12:35:05 by bsengeze          #+#    #+#             */
-/*   Updated: 2025/03/13 12:35:14 by bsengeze         ###   ########.fr       */
+/*   Updated: 2025/03/13 13:08:29 by bsengeze         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,8 @@
 #include <cmath>
 #include <iostream>
 
-class Fixed {
+class Fixed
+{
 public:
   Fixed();
   Fixed(const int integer);

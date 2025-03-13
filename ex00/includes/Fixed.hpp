@@ -6,7 +6,7 @@
 /*   By: bsengeze <bsengeze@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/27 00:27:18 by bsengeze          #+#    #+#             */
-/*   Updated: 2025/03/13 12:36:04 by bsengeze         ###   ########.fr       */
+/*   Updated: 2025/03/13 13:08:12 by bsengeze         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,8 @@
 
 #include <iostream>
 
-class Fixed {
+class Fixed
+{
 public:
   Fixed();
   Fixed(const Fixed &other);

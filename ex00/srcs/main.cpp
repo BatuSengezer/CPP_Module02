@@ -6,13 +6,14 @@
 /*   By: bsengeze <bsengeze@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/27 00:37:43 by bsengeze          #+#    #+#             */
-/*   Updated: 2023/12/27 00:37:44 by bsengeze         ###   ########.fr       */
+/*   Updated: 2025/03/13 13:08:21 by bsengeze         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Fixed.hpp"
 
-int main(void) {
+int main(void)
+{
   Fixed a;
   Fixed b(a);
   Fixed c;

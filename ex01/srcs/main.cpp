@@ -6,13 +6,14 @@
 /*   By: bsengeze <bsengeze@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/13 12:35:33 by bsengeze          #+#    #+#             */
-/*   Updated: 2025/03/13 12:35:37 by bsengeze         ###   ########.fr       */
+/*   Updated: 2025/03/13 13:08:39 by bsengeze         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Fixed.hpp"
 
-int main() {
+int main()
+{
   Fixed a;
   Fixed const b(10);
   Fixed const c(42.42f);
