@@ -6,12 +6,12 @@
 /*   By: bsengeze <bsengeze@student.42berlin.de>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/13 12:35:05 by bsengeze          #+#    #+#             */
-/*   Updated: 2025/03/13 13:08:29 by bsengeze         ###   ########.fr       */
+/*   Updated: 2025/03/16 19:56:57 by bsengeze         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FIXED_H
-#define FIXED_H
+#ifndef FIXED_HPP
+#define FIXED_HPP
 
 #include <cmath>
 #include <iostream>
