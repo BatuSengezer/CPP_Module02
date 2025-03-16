@@ -6,11 +6,11 @@
 #    By: bsengeze <bsengeze@student.42berlin.de>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/25 23:49:55 by bsengeze          #+#    #+#              #
-#    Updated: 2025/03/13 13:08:46 by bsengeze         ###   ########.fr        #
+#    Updated: 2025/03/16 14:15:16 by bsengeze         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = fixed-pointNumber
+NAME = FixedPointNumber
 CC = g++
 RM = rm -rf
 FLAGS = -std=c++98 -Wall -Wextra -Werror
