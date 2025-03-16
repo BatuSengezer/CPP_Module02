@@ -6,12 +6,12 @@
 #    By: bsengeze <bsengeze@student.42berlin.de>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/25 23:49:55 by bsengeze          #+#    #+#              #
-#    Updated: 2025/03/16 14:12:41 by bsengeze         ###   ########.fr        #
+#    Updated: 2025/03/16 19:57:36 by bsengeze         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = NowWeAreTalking
-CC = g++
+CC = c++
 RM = rm -rf
 FLAGS = -std=c++98 -Wall -Wextra -Werror
 INCLUDES = -I./includes
